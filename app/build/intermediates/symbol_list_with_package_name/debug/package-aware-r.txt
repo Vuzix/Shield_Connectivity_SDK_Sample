@@ -1,0 +1,9 @@
+com.vuzix.connectivitysdksample
+id text
+layout main
+string activity_name
+string app_name
+string get_remote_device_model
+string not_available
+string send
+string type_some_text

@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vuzix.connectivitysdksample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+10
+11    <queries>
+11-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:5:5-7:15
+12        <provider
+12-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:6:9-91
+13            android:authorities="com.vuzix.connectivity"
+13-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:6:19-63
+14            android:exported="false" />
+14-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:6:64-88
+15    </queries>
+16
+17    <application
+17-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:9:5-28:19
+18        android:allowBackup="false"
+18-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:10:9-36
+19        android:debuggable="true"
+20        android:label="@string/app_name"
+20-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:11:9-41
+21        android:supportsRtl="true"
+21-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:12:9-35
+22        android:theme="@android:style/Theme.Material" >
+22-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:13:9-54
+23        <activity
+23-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:16:9-21:20
+24            android:name="com.vuzix.connectivitysdksample.MainActivity"
+24-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:16:19-47
+25            android:label="@string/activity_name" >
+25-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:16:48-85
+26            <intent-filter>
+26-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:17:13-20:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:18:17-68
+27-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:18:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:19:17-76
+29-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:19:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <receiver android:name="com.vuzix.connectivitysdksample.GetReceiver" >
+33-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:23:9-27:20
+33-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:23:19-46
+34            <intent-filter>
+34-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:24:13-26:29
+35                <action android:name="com.vuzix.connectivitysdksample.GET" />
+35-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:25:17-77
+35-->C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:25:25-75
+36            </intent-filter>
+37        </receiver>
+38    </application>
+39
+40</manifest>

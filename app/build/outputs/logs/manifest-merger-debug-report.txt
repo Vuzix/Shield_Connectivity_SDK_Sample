@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from [com.vuzix:connectivity-sdk:1.2] C:\Users\brody_wood\.gradle\caches\transforms-3\59a6c19b7cb61382cefa9f47954a3348\transformed\connectivity-sdk-1.2\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:5:5-7:15
+provider
+ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:6:9-91
+	android:authorities
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:6:19-63
+	android:exported
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:6:64-88
+application
+ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:9:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:14:9-71
+	android:allowBackup
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:13:9-54
+activity#com.vuzix.connectivitysdksample.MainActivity
+ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:16:9-21:20
+	android:label
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:16:48-85
+	android:name
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:19:27-74
+receiver#com.vuzix.connectivitysdksample.GetReceiver
+ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:23:9-27:20
+	tools:ignore
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:23:47-78
+	android:name
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:23:19-46
+intent-filter#action:name:com.vuzix.connectivitysdksample.GET
+ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:24:13-26:29
+action#com.vuzix.connectivitysdksample.GET
+ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml:25:25-75
+uses-sdk
+INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+MERGED from [com.vuzix:connectivity-sdk:1.2] C:\Users\brody_wood\.gradle\caches\transforms-3\59a6c19b7cb61382cefa9f47954a3348\transformed\connectivity-sdk-1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.vuzix:connectivity-sdk:1.2] C:\Users\brody_wood\.gradle\caches\transforms-3\59a6c19b7cb61382cefa9f47954a3348\transformed\connectivity-sdk-1.2\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Desktop\ConnectivitySDK_Sample\app\src\main\AndroidManifest.xml

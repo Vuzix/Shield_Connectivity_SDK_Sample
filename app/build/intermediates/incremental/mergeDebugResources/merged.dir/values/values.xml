@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_name">SDK Sample</string>
+    <string name="app_name">Vuzix Connectivity SDK Sample</string>
+    <string name="get_remote_device_model">Get remote device model</string>
+    <string name="not_available">Connectivity is not available!</string>
+    <string name="send">Send</string>
+    <string name="type_some_text">Type some text</string>
+</resources>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vuzix:connectivity-sdk:1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/59a6c19b7cb61382cefa9f47954a3348/transformed/connectivity-sdk-1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/59a6c19b7cb61382cefa9f47954a3348/transformed/connectivity-sdk-1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/59a6c19b7cb61382cefa9f47954a3348/transformed/connectivity-sdk-1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vuzix/connectivity-sdk/1.2/86bd72ebe32708f037d1e292bc6ff93218d995f7/connectivity-sdk-1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vuzix/connectivity-sdk/1.2/212fdb9282aec5b899ccff91290526aceb460d95/connectivity-sdk-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

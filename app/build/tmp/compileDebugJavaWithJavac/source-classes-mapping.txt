@@ -1,0 +1,8 @@
+com/vuzix/connectivitysdksample/MainActivity.java
+ com.vuzix.connectivitysdksample.MainActivity
+ com.vuzix.connectivitysdksample.MainActivity$1
+ com.vuzix.connectivitysdksample.MainActivity$2
+com/vuzix/connectivitysdksample/BuildConfig.java
+ com.vuzix.connectivitysdksample.BuildConfig
+com/vuzix/connectivitysdksample/GetReceiver.java
+ com.vuzix.connectivitysdksample.GetReceiver
